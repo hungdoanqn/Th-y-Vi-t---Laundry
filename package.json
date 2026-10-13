@@ -1,0 +1,10 @@
+{
+  "name": "dotn-laundry-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DotnAI Laundry ERP — nhận đơn, theo dõi công đoạn sản xuất, giao hàng ký điện tử",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
